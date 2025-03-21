@@ -7,9 +7,9 @@ Weather Analyser
 **Which research field(s) does this software belong to?
 (project/research_field):**
 
-Natural Sciences / Atmospheric Science and Oceanography
+Naturwissenschaften / Atmosphären- und Meeresforschung
 
-Natural Sciences / Water Research
+Naturwissenschaften / Wasserforschung
 
 **What is the intended use of the software? How will your software
 contribute to research? (project/research_question/title):**
