@@ -22,8 +22,6 @@ doi: 10.5281/zenodo.9876
 identifiers:
   - type: swh
     value: "swh:1:dir:bc286860f423ea7ced246ba7458eef4b4541cf2d"
-  - type: doi
-    value: 10.5281/zenodo.1234
   - type: url
     value: https://my-cff-url.com
 license:
