@@ -23,7 +23,5 @@ identifiers:
     value: "swh:1:dir:bc286860f423ea7ced246ba7458eef4b4541cf2d"
   - type: url
     value: https://my-cff-url.com
-license:
-  - LGPL-3.0-only
-  - MIT
+license: LGPL-3.0-only
 date-released: 2027-04-30
