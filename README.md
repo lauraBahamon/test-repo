@@ -15,11 +15,12 @@ Stations (AWS) to a final dashboard,\
 Contribution to research: the software simplifies the quality control,
 and prepares them for publication
 
-Contributor:
+Contributors:
 
 - David Walter (https://orcid.org/0000-0001-6807-5007), Research Data
   Management at Max Planck Digital Library & Data management R/Y Eugen
   Seibold, PANGAEA data editor at Max Planck Institute for Chemistry
+- Michael Franke (https://orcid.org/0000-0002-2661-8242)
 
 Software licenses:
 
